@@ -1,0 +1,9 @@
+"""A local-first AI engineering agent that learns from your cod"""
+
+
+def main() -> None:
+    print("ok")
+
+
+if __name__ == "__main__":
+    main()
