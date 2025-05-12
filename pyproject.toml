@@ -3,3 +3,4 @@ name = "dspy-compounding-engineering"
 version = "0.1.0"
 description = "A local-first AI engineering agent that learns from your codebase using DSPy."
 requires-python = ">=3.10"
+# match the style used in the rest of the module
